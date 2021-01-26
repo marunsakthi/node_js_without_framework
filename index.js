@@ -5,7 +5,7 @@ const url = require('url');
 const conn = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'blaze.ws',
+    password: '',
     database: 'login'
 });
 
